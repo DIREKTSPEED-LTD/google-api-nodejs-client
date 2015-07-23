@@ -1,7 +1,7 @@
 {
-  "name": "googleapis",
-  "version": "2.1.1",
-  "author": "Google Inc.",
+  "name": "googleapis-current",
+  "version": "2.1.2",
+  "author": "Google Inc. + DIREKTSPEED",
   "description": "Google APIs Client Library for Node.js",
   "contributors": [
     {
@@ -13,6 +13,10 @@
       "email": "ryanseys@google.com"
     },
     {
+      "name": "Frank Lemanschik",
+      "email": "frank@dspeed.eu"
+    },
+    {
       "name": "Tim Emiola",
       "email": "tbetbetbe@google.com"
     },
@@ -22,7 +26,7 @@
     }
   ],
   "engines": {
-    "node": ">=0.10"
+    "node": ">=0.12"
   },
   "main": "./lib/googleapis",
   "repository": {
